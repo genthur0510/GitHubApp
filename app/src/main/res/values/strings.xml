@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHubApp</string>
+    <string name="searchbar_hint">Insert Username</string>
+    <string name="tvUsername">"Username</string>
+    <string name="tvDetailUsername">Username</string>
+    <string name="tvDetailName">Name</string>
+    <string name="tvDetailFollowing"> %d Following</string>
+    <string name="tvDetailFollowers"> %d Followers</string>
+    <string name="tabFollowing">Following</string>
+    <string name="tabFollowers">Followers</string>
+    <string name="changeTheme">Change Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_activity_title">Favorite User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
